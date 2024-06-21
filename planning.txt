@@ -1,0 +1,26 @@
+
+
+--> User story: it is what a user need from this app on there perspective
+
+1. I want to log my running workouts with location, distance, time, speed and steps/minute. so i can keep a log of all my running.
+2. I want to log my cycling workouts with location, distance, time, speed and elevation gain, so i can keep a log og all my cycling.
+3. I want to see all my workouts at a glance, so i can easily track my progress over time.
+4. I want to also see my workouts on a map, so i acn easily check where i work out the most.
+5. I want to see all my workouts when i leave the app and come back later, so that i can keep using there app over time.
+
+--> Features
+
+1. A Map to add new workouts by clicking on the map
+   --> we can use geolocation to get current location
+   --> we need a form to input the datas
+
+2. --> need a form also
+
+3. --> display all workouts in a list
+
+4. --> display all workouts on the Map
+
+5. --> Store the workouts data in localStorage to store it permanantly
+
+---> need a flow chart with Features
+
